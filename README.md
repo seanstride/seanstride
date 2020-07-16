@@ -1,4 +1,11 @@
-### Hi there 👋
+## How to reach me
+
+* Twitter: http://twitter.com/seanstride
+* Website: https://seanstride.co.uk
+* Past Talks: https://speakerdeck.com/seanstride
+
+
+
 
 <!--
 **sstride/sstride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
