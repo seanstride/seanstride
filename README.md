@@ -12,6 +12,7 @@ Since 2017 I have been a senior software developer working for bet365 developing
 
 * Twitter: http://twitter.com/seanstride
 * Website: https://seanstride.co.uk
+* dotNET Stoke: http://twitter.com/dotnetstoke or https://dotnetstoke.co.uk
 * Past Talks: https://speakerdeck.com/seanstride
 
 <!--
