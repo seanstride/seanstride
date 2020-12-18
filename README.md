@@ -8,6 +8,10 @@ Since 2017 I have been a senior software developer working for bet365 developing
 
 * [July - Behind The Buzzword](https://www.youtube.com/watch?v=o6ChfpqvBzQ)
 
+### 2021
+
+* [January - .NET Cambridge](https://www.meetup.com/dotnetcambridge/events/272006966/)
+
 ## How to reach me
 
 * Twitter: http://twitter.com/seanstride
