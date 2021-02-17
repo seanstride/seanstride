@@ -10,7 +10,7 @@ Since 2017 I have been a senior software developer working for bet365 developing
 
 ### 2021
 
-* [January - .NET Cambridge](https://www.meetup.com/dotnetcambridge/events/272006966/)
+* [January - .NET Cambridge](https://www.youtube.com/watch?v=Cp9Zu9Q-FMU)
 
 ## How to reach me
 
