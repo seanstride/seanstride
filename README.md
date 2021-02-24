@@ -15,6 +15,7 @@ Since 2017 I have been a senior software developer working for bet365 developing
 ## How to reach me
 
 * Twitter: http://twitter.com/seanstride
+* YouTube: https://www.youtube.com/channel/UCAGKGqfuI7gxF9jrF5oIpDw
 * Website: https://seanstride.co.uk
 * dotNET Stoke: http://twitter.com/dotnetstoke or https://dotnetstoke.co.uk
 * Past Talks: https://speakerdeck.com/seanstride
